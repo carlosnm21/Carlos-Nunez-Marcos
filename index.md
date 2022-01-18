@@ -1,6 +1,8 @@
-## Welcome to GitHub Pages
+## BLOG DE CARLOS
 
 You can use the [editor on GitHub](https://github.com/carlosnm21/Carlos-N-ez-Marcos/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+
+eL 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
